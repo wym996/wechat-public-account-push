@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'b7802566e6523eafd2cce8fef521ff82',
 
   PROVINCE: '四川',
-  CITY: '芦山',
+  CITY: '雅安',
 
   USERS: [
     {
@@ -41,8 +41,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2016-11-11' },
-        // 结婚纪念日
-        // { keyword: 'marry_day', date: '2022-09-09' },
+
       ],
     },
   ],
